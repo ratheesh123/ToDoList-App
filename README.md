@@ -7,6 +7,7 @@ ToDoList-App
 Welcome to the ToDoList-App repository! This is colorful and intuitive to-do list application is designed to help you keep track of your daily tasks with ease. It's built using React and Tailwind CSS, providing a responsive and attractive interface.
 
 Features
+
 Add new tasks to your to-do list.
 View a list of tasks you've added.
 Edit existing tasks to update their descriptions.
